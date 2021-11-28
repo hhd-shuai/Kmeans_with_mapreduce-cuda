@@ -69,17 +69,14 @@ run
 $ ./kmeans_with_mapreduce-cuda data/filename.txt
 ```
 
-算法使⽤数据集Clustering basic benchmark Birch-sets \
-数据集地址 http://cs.joensuu.fi/sipu/datasets/ \
+算法使⽤数据集Clustering basic benchmark Birch-sets <br />
+数据集地址 http://cs.joensuu.fi/sipu/datasets/ <br />
 birch1.txt (100000, 2)
 
 
 Environment：
 
-Ubuntu 16.04, VS Code
-
-Languages: Cuda, C++, Makefile
-
-Compiler: g++ -std=c++11, nvcc
-
+Ubuntu 16.04, VS Code <br />
+Languages: Cuda, C++, Makefile <br />
+Compiler: g++ -std=c++11, nvcc <br />
 Cuda version: 10.1
