@@ -60,6 +60,15 @@ kmeans算法迭代过程中，涉及⼤量的距离计算，属于计算密集�
 - 不停迭代，直⾄收敛。
 - 将device端运算结果拷⻉⾄host端，保存结果。
 
+To compile
+``` 
+$ make
+```
+run
+``` 
+$ ./kmeans_with_mapreduce-cuda data/filename.txt
+```
+
 算法使⽤数据集Clustering basic benchmark Birch-sets \
 数据集地址 http://cs.joensuu.fi/sipu/datasets/ \
 birch1.txt (100000, 2)
