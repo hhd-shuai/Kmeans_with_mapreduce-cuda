@@ -68,6 +68,8 @@ run
 ``` 
 $ ./kmeans_with_mapreduce-cuda data/filename.txt
 ```
+result
+https://github.com/hhd-shuai/Kmeans_with_mapreduce-cuda/blob/8a412b7f399cf2fbc88effdb6f9409082b8d32ed/Screenshot%20from%202021-11-28%2016-01-15.png
 
 算法使⽤数据集Clustering basic benchmark Birch-sets <br />
 数据集地址 http://cs.joensuu.fi/sipu/datasets/ <br />
