@@ -84,6 +84,6 @@ Compiler: g++ -std=c++11, nvcc <br />
 Cuda version: 10.1
 
 
-References:
+References:  <br />
 https://github.com/rajat2004/MapReduce-GPU <br />
 https://github.com/hb5813/KNN_with_MapReduce-CUDA
