@@ -82,3 +82,8 @@ Ubuntu 16.04, VS Code <br />
 Languages: Cuda, C++, Makefile <br />
 Compiler: g++ -std=c++11, nvcc <br />
 Cuda version: 10.1
+
+
+References:
+https://github.com/rajat2004/MapReduce-GPU
+https://github.com/hb5813/KNN_with_MapReduce-CUDA
